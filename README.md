@@ -1,16 +1,15 @@
-# calculator
+# Flutter Calculator App
+## Description
+The Flutter Calculator App is a simple and user-friendly calculator application built using the Flutter framework. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The app provides a clean and intuitive interface for performing calculations quickly and efficiently.
 
-A new Flutter project.
+![screenshot](https://github.com/Shellinox/Calculator-app-using-Flutter/assets/114509764/e8d2aba7-de1d-4e4e-915e-d947bb201d71)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+1) Addition: Perform addition operations by entering two numbers and tapping the "+" button.
+2) Subtraction: Perform subtraction operations by entering two numbers and tapping the "-" button.
+3) Multiplication: Perform multiplication operations by entering two numbers and tapping the "x" button.
+4) Division: Perform division operations by entering two numbers and tapping the "/" button.
+5) Clear: Clear the input fields and reset the calculator to its initial state.
+# Technologies Used
+1) Flutter: The app is built using the Flutter framework, which is an open-source UI toolkit for building natively compiled applications for mobile, web, and desktop    platforms.
+2) Dart: The programming language used for developing the Flutter app.
